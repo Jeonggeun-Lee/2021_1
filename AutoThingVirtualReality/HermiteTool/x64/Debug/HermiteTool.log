@@ -1,3 +1,1 @@
-﻿  HermiteCrv.cpp
-c:\users\user\documents\2021_1\자율사물가상현실\과제\hermite\hermitetool\hermitecrv.cpp(20): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  HermiteTool.vcxproj -> C:\Users\User\Documents\2021_1\자율사물가상현실\과제\Hermite\HermiteTool\x64\Debug\HermiteTool.exe
+﻿  HermiteTool.vcxproj -> C:\Users\User\Documents\GitHub\2021_1\AutoThingVirtualReality\HermiteTool\x64\Debug\HermiteTool.exe
